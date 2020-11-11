@@ -1,0 +1,11 @@
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\bin\Debug\netcoreapp2.1\StoreList.deps.json
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\bin\Debug\netcoreapp2.1\StoreList.runtimeconfig.json
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\bin\Debug\netcoreapp2.1\StoreList.runtimeconfig.dev.json
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\bin\Debug\netcoreapp2.1\StoreList.dll
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\bin\Debug\netcoreapp2.1\StoreList.pdb
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.AssemblyInfoInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.AssemblyInfo.cs
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.dll
+C:\Users\Edi\source\repos\DictionaryExercise\StoreList\obj\Debug\netcoreapp2.1\StoreList.pdb
